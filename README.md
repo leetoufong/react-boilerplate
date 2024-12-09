@@ -1,2 +1,2 @@
 # react-boilerplate
-Boilerplate for react apps. Does not use Create React App
+Boilerplate for react apps. Does not use Create React App.
